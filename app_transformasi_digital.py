@@ -228,6 +228,76 @@ business_cases = {
     },
 }
 
+
+# -----------------------------
+# GLOSSARY DATA
+# -----------------------------
+glossary = {
+    "AI (Artificial Intelligence)": "Kecerdasan buatan: teknologi yang membuat komputer dapat melakukan tugas yang biasanya membutuhkan kemampuan manusia, seperti mengenali pola, membuat prediksi, atau memahami bahasa.",
+    "API (Application Programming Interface)": "Antarmuka yang memungkinkan satu aplikasi atau sistem berkomunikasi dan bertukar data dengan aplikasi lain.",
+    "BI (Business Intelligence)": "Metode dan tools untuk mengubah data bisnis menjadi informasi yang membantu monitoring dan pengambilan keputusan.",
+    "Business Model": "Cara perusahaan menciptakan, menyampaikan, dan memperoleh nilai atau pendapatan dari pelanggan.",
+    "Business Process": "Serangkaian aktivitas yang dilakukan untuk menghasilkan produk atau layanan.",
+    "CRM (Customer Relationship Management)": "Sistem atau pendekatan untuk mengelola data dan hubungan pelanggan, misalnya riwayat pembelian, komunikasi, dan segmentasi.",
+    "Cloud / Cloud Computing": "Penggunaan server, penyimpanan, database, atau komputasi melalui internet tanpa harus memiliki seluruh perangkat fisiknya sendiri.",
+    "Conversion Rate": "Persentase pengunjung atau calon pelanggan yang melakukan tindakan yang ditargetkan, misalnya pembelian.",
+    "Customer Experience": "Pengalaman pelanggan ketika berinteraksi dengan perusahaan, produk, layanan, website, aplikasi, pembayaran, dan layanan setelah pembelian.",
+    "Customer Relationship": "Cara perusahaan membangun dan mempertahankan hubungan dengan pelanggan.",
+    "Data Analytics": "Proses mengolah dan menganalisis data untuk menemukan informasi, pola, atau insight yang membantu keputusan bisnis.",
+    "Data Governance": "Aturan, tanggung jawab, proses, dan standar agar data dikelola secara konsisten, aman, dan tepat.",
+    "Dashboard": "Tampilan visual yang merangkum data dan KPI agar kondisi bisnis dapat dipantau dengan cepat.",
+    "Digital Channel": "Kanal digital yang digunakan untuk berinteraksi atau menjual kepada pelanggan, seperti website, aplikasi, atau marketplace.",
+    "Digital Payment": "Pembayaran melalui media atau sistem digital, misalnya QRIS, e-wallet, atau mobile banking.",
+    "Digital Opportunity": "Bagian proses atau model bisnis yang berpotensi diperbaiki atau dikembangkan dengan teknologi digital.",
+    "Digital Transformation": "Perubahan yang lebih luas pada cara organisasi bekerja, melayani pelanggan, dan menciptakan nilai dengan memanfaatkan teknologi digital.",
+    "Digitalization": "Pemanfaatan teknologi digital untuk memperbaiki atau mengubah proses yang sudah ada.",
+    "Digitization": "Proses mengubah informasi dari bentuk analog atau fisik menjadi bentuk digital.",
+    "Ecosystem": "Jaringan perusahaan, pelanggan, supplier, partner, platform, dan pihak lain yang saling berhubungan dalam menciptakan nilai.",
+    "ERP (Enterprise Resource Planning)": "Sistem terintegrasi untuk membantu mengelola proses seperti keuangan, persediaan, pembelian, dan operasional.",
+    "Governance": "Aturan, struktur tanggung jawab, dan mekanisme pengawasan agar teknologi dan data dikelola secara terarah.",
+    "IoT (Internet of Things)": "Konsep menghubungkan perangkat fisik ke internet agar dapat mengirim, menerima, atau bertukar data.",
+    "KPI (Key Performance Indicator)": "Indikator utama untuk mengukur apakah proses, program, atau tujuan bisnis mencapai hasil yang diharapkan.",
+    "Legacy System": "Sistem lama yang masih digunakan dan dapat menjadi tantangan ketika perusahaan mengadopsi teknologi baru.",
+    "Mobile": "Teknologi atau layanan yang digunakan melalui perangkat bergerak seperti smartphone atau tablet.",
+    "Mitigation": "Tindakan untuk mengurangi kemungkinan terjadinya risiko atau mengurangi dampaknya.",
+    "Omnichannel": "Pendekatan yang menghubungkan beberapa kanal penjualan dan layanan agar pengalaman pelanggan tetap terintegrasi.",
+    "Online Conversion Rate": "Persentase pengunjung online yang melakukan tindakan target, biasanya pembelian atau pendaftaran.",
+    "Payment Gateway": "Layanan yang menghubungkan transaksi pembayaran pelanggan dengan penyedia pembayaran seperti bank atau e-wallet.",
+    "Personalization": "Penyesuaian produk, layanan, konten, atau promosi berdasarkan karakteristik atau perilaku pelanggan.",
+    "Platform": "Sistem digital yang menghubungkan pengguna, penjual, penyedia layanan, atau pihak lain.",
+    "POS (Point of Sale)": "Sistem kasir untuk mencatat transaksi penjualan dan biasanya terhubung dengan stok atau database.",
+    "Predictive Analytics": "Analisis data yang digunakan untuk memperkirakan kemungkinan kondisi atau kejadian di masa depan.",
+    "Privacy": "Perlindungan terhadap penggunaan dan pengelolaan informasi pribadi.",
+    "Process Automation": "Penggunaan teknologi untuk menjalankan aktivitas proses secara otomatis sehingga mengurangi pekerjaan manual.",
+    "Roadmap": "Rencana tahapan implementasi yang menunjukkan perubahan jangka pendek, menengah, dan panjang.",
+    "Revenue Model": "Cara perusahaan memperoleh pendapatan dari produk, layanan, pelanggan, atau aktivitas bisnis.",
+    "Scalability": "Kemampuan sistem atau proses untuk menangani peningkatan pengguna, transaksi, atau beban kerja.",
+    "Self-service": "Kemampuan pelanggan menyelesaikan kebutuhannya sendiri melalui sistem digital tanpa selalu membutuhkan bantuan petugas.",
+    "Single Source of Truth": "Satu sumber data utama yang disepakati sebagai acuan agar informasi antarbagian konsisten.",
+    "Skill Gap": "Kesenjangan antara kemampuan yang dimiliki karyawan dan kemampuan yang dibutuhkan untuk menjalankan pekerjaan atau teknologi baru.",
+    "Subscription": "Model pendapatan ketika pelanggan membayar secara berkala, misalnya bulanan atau tahunan, untuk mendapatkan akses produk atau layanan.",
+    "Value Proposition": "Manfaat utama yang ditawarkan perusahaan kepada pelanggan sebagai alasan pelanggan memilih produk atau layanan.",
+    "Value Capture": "Cara perusahaan memperoleh manfaat ekonomi atau pendapatan dari nilai yang telah diciptakan.",
+    "Workflow": "Urutan aktivitas dan perpindahan pekerjaan dari satu tahap atau pihak ke tahap berikutnya.",
+    "Cybersecurity": "Upaya melindungi sistem, jaringan, aplikasi, dan data dari akses, serangan, atau gangguan yang tidak diizinkan.",
+    "Customer Retention": "Kemampuan perusahaan mempertahankan pelanggan agar tetap menggunakan atau membeli produk atau layanan.",
+    "Repeat Purchase Rate": "Persentase pelanggan yang melakukan pembelian kembali dalam periode tertentu.",
+    "Average Order Value": "Rata-rata nilai uang dari setiap transaksi atau pesanan.",
+    "Order Accuracy": "Tingkat ketepatan pesanan dibandingkan dengan pesanan yang diminta pelanggan.",
+    "Average Order Time": "Rata-rata waktu yang dibutuhkan untuk menyelesaikan proses pemesanan pada tahap yang ditentukan.",
+    "Order Processing Time": "Waktu yang dibutuhkan untuk memproses pesanan sejak diterima sampai tahap berikutnya.",
+    "Order Completion Rate": "Persentase pesanan yang berhasil diselesaikan dibandingkan dengan seluruh pesanan yang masuk.",
+    "On-time Delivery": "Persentase pesanan yang dikirim atau diterima sesuai waktu yang dijanjikan.",
+    "Complaint Rate": "Jumlah atau persentase keluhan pelanggan dibandingkan dengan transaksi atau pelanggan dalam periode tertentu.",
+    "Data Completeness": "Tingkat kelengkapan data yang dibutuhkan; semakin lengkap, semakin sedikit informasi penting yang kosong.",
+    "Response Time": "Waktu yang dibutuhkan sistem atau petugas untuk memberikan respons kepada pelanggan atau pengguna.",
+    "User Satisfaction": "Tingkat kepuasan pengguna terhadap sistem, layanan, atau pengalaman yang diterima.",
+    "Stock Accuracy": "Tingkat kesesuaian jumlah stok yang tercatat di sistem dengan stok yang benar-benar tersedia.",
+    "Current Process": "Cara kerja atau alur proses bisnis yang sedang berjalan sebelum dilakukan perubahan.",
+    "Customer Segment": "Kelompok pelanggan yang memiliki karakteristik atau kebutuhan yang relatif serupa.",
+    "Channel": "Media atau jalur yang digunakan perusahaan untuk menjangkau pelanggan dan menyampaikan produk atau layanan.",
+}
+
 # -----------------------------
 # Sidebar
 # -----------------------------
@@ -243,6 +313,7 @@ menu = st.sidebar.radio(
         "📋 Studi Kasus",
         "🧩 Latihan",
         "🏆 Kuis 10 Soal",
+        "📖 Glosarium Istilah",
         "✅ Ringkasan",
         "📚 Referensi",
     ],
@@ -269,6 +340,9 @@ st.sidebar.write("(1 + 1) × (2 × 60 menit)")
 
 st.sidebar.markdown("**Sumber utama**")
 st.sidebar.write("Aagaard (2019) — Digital Business Models Driving Transformation and Innovation.")
+
+st.sidebar.markdown("**💡 Tips**")
+st.sidebar.caption("Jika menemukan istilah yang belum familiar, buka menu 📖 Glosarium Istilah. Anda dapat mencari CRM, KPI, API, POS, AI, Cloud, Dashboard, dan istilah lainnya.")
 
 # -----------------------------
 # Header
@@ -326,6 +400,15 @@ if menu == "🏠 Beranda":
     </div>
     """, unsafe_allow_html=True)
 
+
+    with st.expander("📖 Istilah penting di halaman ini"):
+        st.markdown("""
+        - **Customer Experience:** pengalaman pelanggan saat berinteraksi dengan perusahaan.
+        - **Business Process:** rangkaian aktivitas untuk menghasilkan produk atau layanan.
+        - **KPI:** indikator utama untuk mengukur keberhasilan tujuan atau proses bisnis.
+        - **Business Model:** cara perusahaan menciptakan, menyampaikan, dan memperoleh nilai.
+        """)
+
     st.markdown("### Alur berpikir")
     st.markdown("""
     <div class="flow">
@@ -368,6 +451,14 @@ elif menu == "📘 Materi":
             "mengintegrasikan stok, menyediakan pembayaran digital, memakai CRM, dan menggunakan "
             "dashboard untuk mengambil keputusan telah melakukan perubahan yang lebih luas daripada sekadar digitalisasi dokumen."
         )
+
+        with st.expander("📖 Istilah pada contoh"):
+            st.markdown("""
+            - **Online ordering:** pemesanan melalui kanal digital.
+            - **CRM:** sistem/pendekatan untuk mengelola data dan hubungan pelanggan.
+            - **Digital payment:** pembayaran menggunakan media digital.
+            - **Dashboard:** tampilan visual untuk memantau data dan indikator bisnis.
+            """)
 
     with tabs[1]:
         st.subheader("2. Digitization, Digitalization, dan Digital Transformation")
@@ -475,6 +566,14 @@ elif menu == "📘 Materi":
         </div>
         """, unsafe_allow_html=True)
 
+        with st.expander("📖 Istilah pada Business Model"):
+            st.markdown("""
+            - **Value Proposition:** manfaat utama yang ditawarkan kepada pelanggan.
+            - **Digital Channel:** kanal digital untuk menjangkau atau melayani pelanggan.
+            - **Revenue Model:** cara perusahaan memperoleh pendapatan.
+            - **Value Capture:** cara perusahaan memperoleh manfaat ekonomi dari nilai yang diciptakan.
+            """)
+
     with tabs[5]:
         st.subheader("6. Metode Studi Kasus")
         st.write("Gunakan alur berikut saat menganalisis kasus Transformasi Digital:")
@@ -536,6 +635,10 @@ elif menu == "🔄 Simulasi Transformasi":
 
     st.markdown("### KPI yang dapat digunakan")
     st.write(", ".join(case["kpi"]))
+    with st.expander("📖 Apa itu KPI?"):
+        st.write("KPI (Key Performance Indicator) adalah indikator utama untuk mengukur apakah suatu proses atau tujuan bisnis mencapai hasil yang diharapkan.")
+        st.caption("Contoh: Stock accuracy mengukur kesesuaian stok yang tercatat di sistem dengan stok yang benar-benar tersedia.")
+
 
 # -----------------------------
 # STUDI KASUS
@@ -561,6 +664,16 @@ elif menu == "📋 Studi Kasus":
         ],
         "Kondisi": ["2.000", "15%", "8%", "Meningkat"],
     }, use_container_width=True, hide_index=True)
+
+
+    with st.expander("📖 Istilah yang mungkin muncul"):
+        st.markdown("""
+        - **Current Process:** cara kerja bisnis saat ini.
+        - **Digital Opportunity:** bagian proses yang berpotensi diperbaiki dengan teknologi digital.
+        - **Roadmap:** tahapan implementasi perubahan.
+        - **KPI:** ukuran untuk menilai keberhasilan.
+        - **Mitigation:** tindakan untuk mengurangi risiko.
+        """)
 
     st.markdown("### Pertanyaan Analisis")
     questions = [
@@ -718,6 +831,41 @@ elif menu == "🏆 Kuis 10 Soal":
             st.info("Cukup baik. Review kembali bagian yang masih salah.")
         else:
             st.warning("Perlu review materi sebelum mencoba kuis kembali.")
+
+# -----------------------------
+# GLOSARIUM
+# -----------------------------
+elif menu == "📖 Glosarium Istilah":
+    st.subheader("Glosarium Istilah Transformasi Digital")
+    st.write("Setiap istilah teknis yang digunakan dalam aplikasi dijelaskan di sini dengan bahasa sederhana.")
+
+    search_term = st.text_input(
+        "🔎 Cari istilah",
+        placeholder="Contoh: CRM, KPI, API, Cloud, Dashboard, POS..."
+    )
+
+    if search_term.strip():
+        q = search_term.lower().strip()
+        filtered = {
+            term: definition
+            for term, definition in glossary.items()
+            if q in term.lower() or q in definition.lower()
+        }
+    else:
+        filtered = glossary
+
+    st.caption(f"{len(filtered)} istilah ditampilkan.")
+
+    for term, definition in filtered.items():
+        with st.expander(term):
+            st.write(definition)
+
+    st.markdown("""
+    <div class="note">
+    <b>Tips untuk mahasiswa:</b> Jangan hanya menghafal singkatan.
+    Pahami <b>fungsi istilah tersebut dalam proses bisnis</b>.
+    </div>
+    """, unsafe_allow_html=True)
 
 # -----------------------------
 # RINGKASAN
